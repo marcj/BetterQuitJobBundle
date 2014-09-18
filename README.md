@@ -13,6 +13,7 @@
   - Yii - some people need a high-five. with a chair. in their face
   - Laravel - Aren't you a front end developer in reallity? Go back there.
   - SVN/CVS - Use the one and only git
+  - Eclipse - You like pain, don't you?
 
 ### Please,
 
