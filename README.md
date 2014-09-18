@@ -11,8 +11,8 @@
   - jQuery - Use AngularJS/EmberJS
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
-  - Laravel - Aren't you a front end developer in realliy? Go back there.
-  - SVN/CVS - git
+  - Laravel - Aren't you a front end developer in reallity? Go back there.
+  - SVN/CVS - Use the one and only git
 
 ### Please,
 
