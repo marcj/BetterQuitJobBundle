@@ -1,7 +1,15 @@
 ### Your Problem: Irrelephant.
 
-
 ![Irrelephant](https://cloud.githubusercontent.com/assets/450980/4320103/17e368ac-3f34-11e4-85fb-9266a3c7106d.gif)
+
+### If you got redirected here by someone you're using probably something you shouldn't use anymore.
+
+  - Soap - Use REST
+  - Pear - Use Composer
+  - Typo3 4x/6x - Just use something else
+  - SQL - Use a ORM with QueryBuilder
+  - jQuery - Use AngularJS/EmberJS
+  - Microsoft IIS - wtf?
 
 ### Please,
 
