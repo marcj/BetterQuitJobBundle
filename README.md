@@ -12,7 +12,7 @@
   - Apache + mod_php - use Nginx + php-fpm
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
-  - Kohana, Codeignither, CakePHP - Use Symfony2
+  - Kohana, CodeIgniter or CakePHP - Use Symfony2
   - Laravel - Aren't you a front end developer in reallity? Go back there.
   - SVN/CVS - Use the one and only git
   - Eclipse - You like pain, don't you?
