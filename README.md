@@ -14,6 +14,7 @@
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
   - Laravel - Aren't you a front end developer in reality? Go back there, you 'artisan'
+  - Kohana, CodeIgniter, CakePHP -> `rm -rf /var/www` and restart your career with Symfony
   - SVN/CVS - Use the one and only git
   - Eclipse - You like pain, don't you?
   - PHP mail() - Use Swiftmailer or go to hell!
