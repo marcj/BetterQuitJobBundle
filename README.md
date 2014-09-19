@@ -9,6 +9,7 @@
   - Typo3 4x/6x - Just use something else
   - SQL - Use a ORM with QueryBuilder
   - jQuery - Use AngularJS/EmberJS
+  - Apache + mod_php - use Nginx + php-fpm
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
   - Laravel - Aren't you a front end developer in reallity? Go back there.
