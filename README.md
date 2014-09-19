@@ -19,7 +19,7 @@
   - Eclipse - You like pain, don't you?
   - Dreamweaver - kill it with fire and better use vim
   - PHP mail() - Use Swiftmailer or go to hell!
-  - Offer PRO web-sites on joomla - McDonalds always need new workers. Call them.
+  - Offer PRO web-sites on joomla - Call 911, you might need some help.
 
 ### So, if you're still using one of these, quit better your job or
 
