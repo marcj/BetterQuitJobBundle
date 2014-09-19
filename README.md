@@ -14,6 +14,7 @@
   - Laravel - Aren't you a front end developer in reallity? Go back there.
   - SVN/CVS - Use the one and only git
   - Eclipse - You like pain, don't you?
+  - PHP mail() - Use Swiftmailer or go to hell!
 
 ### Please,
 
