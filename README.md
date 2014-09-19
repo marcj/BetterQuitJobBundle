@@ -2,23 +2,22 @@
 
 ![Irrelephant](https://cloud.githubusercontent.com/assets/450980/4320103/17e368ac-3f34-11e4-85fb-9266a3c7106d.gif)
 
-### If you got redirected here by someone you're using probably something you shouldn't use anymore.
+### If you got redirected here by someone you're using probably something you shouldn't use.
 
-  - Soap - Use REST
-  - Pear - Use Composer
-  - Typo3 4x/6x - Just use something else
-  - SQL - Use a ORM with QueryBuilder
-  - jQuery - Use AngularJS/EmberJS
-  - Apache + mod_php - use Nginx + php-fpm
+  - Soap - Stop that madness. Use REST
+  - Pear - anno 1995 is calling you. You should give back their Pear lib. Use Composer
+  - Typo3 4x/6x - Just use something else. You make yourself a favor.
+  - SQL string building - Mr. SQL-Injection is right behind your back waiting to punsh you in the face. Use a ORM with QueryBuilder
+  - jQuery to build GUI - Use AngularJS/EmberJS/React
+  - Apache + mod_php - Use Nginx + php-fpm
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
-  - Laravel - Aren't you a front end developer in reallity? Go back there.
+  - Laravel - Aren't you a front end developer in reality? Go back there, you 'artisan'
   - SVN/CVS - Use the one and only git
   - Eclipse - You like pain, don't you?
   - PHP mail() - Use Swiftmailer or go to hell!
 
-### Please,
+### So, if you still using one of these, quit better your job or
 
 ![Deal with it](https://cloud.githubusercontent.com/assets/450980/4320094/00906d9e-3f34-11e4-9143-f899d3314547.jpg)
 
-### or quit your job, now.
