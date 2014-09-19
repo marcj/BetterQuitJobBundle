@@ -9,6 +9,7 @@
   - Typo3 4x/6x - Just use something else. You make yourself a favor.
   - SQL string building - Mr. SQL-Injection is right behind your back waiting to punsh you in the face. Use a ORM with QueryBuilder
   - jQuery to build GUI - Use AngularJS/EmberJS/React
+  - Coffeescript - Go call the governor! Ecmascript 6 is around the corner. #Traceur
   - Apache + mod_php - Use Nginx + php-fpm
   - Microsoft IIS - wtf?
   - Yii - some people need a high-five. with a chair. in their face
