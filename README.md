@@ -19,6 +19,7 @@
   - Eclipse - You like pain, don't you?
   - Dreamweaver - kill it with fire and better use vim/phpStorm
   - PHP mail() - Use Swiftmailer or go to hell!
+  - Plain CSS - Use LESS or SASS
 
 ### So, if you're still using one of these, quit better your job or
 
