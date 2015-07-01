@@ -21,7 +21,7 @@
   - Plain CSS - Use LESS or SASS
   - Manual dependency management -  Composer, Bower, NPM
 
-### So, if you're still using one of these, quit better your job or
+### So, if you're still using one of these, better quit your job or
 
 ![Deal with it](https://cloud.githubusercontent.com/assets/450980/4320094/00906d9e-3f34-11e4-9143-f899d3314547.jpg)
 
