@@ -1,4 +1,5 @@
 ### Your Problem: Irrelephant.
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/marcj/BetterQuitJobBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Irrelephant](https://cloud.githubusercontent.com/assets/450980/4320103/17e368ac-3f34-11e4-85fb-9266a3c7106d.gif)
 
